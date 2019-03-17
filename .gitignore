@@ -1,1 +1,9 @@
 build
+.vscode
+.color_coded
+.ycm_extra_conf.py
+conanbuildinfo.cmake
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json
+
